@@ -1,4 +1,9 @@
-<!--
-**AlanHeidel/AlanHeidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Alan Heidel
 
-<h1 align="center"> Hi there 👋, I'm Alan Heidel </h1>
+### 💻 I'm Currently Learning
+- Information Systems Engineering on [UTN](https://www.frcu.utn.edu.ar/)
+- Full Stack Web Developer on [Argentina Programa](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa)
+
+### 🌎 Where To Find Me
+- [LinkedIn](https://www.linkedin.com/in/alanheidel/)
+- [Instagram](https://www.instagram.com/alanheidel/)
