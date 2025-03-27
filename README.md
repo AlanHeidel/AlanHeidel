@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding Background" width="400"/>
 </p>
@@ -7,9 +8,14 @@
 	  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
   , I'm Alan Heidel 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Heidel" height="30" width="40" /></a>
+  <a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alan Heidel" height="30" width="40" /></a>
+  <a href="mailto:alanmax2015.aheidel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Alan Heidel" height="25" width="35" /></a>
+</p>
 </h1>
 
-### 💻 About Me
+### About Me 💻
 
 - Studying Information Systems Engineering on [UTN](https://www.frro.utn.edu.ar/)
 ---
@@ -33,13 +39,19 @@
 
 ---
 
-<!-- CONTACTO -->
-<h3 align="left">Socials:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Heidel" height="30" width="40" /></a>
-  <a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alan Heidel" height="30" width="40" /></a>
-  <a href="mailto:alanmax2015.aheidel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Alan Heidel" height="25" width="35" /></a>
-</p>
+<!-- STATS -->
+<h3>GitHub Stats 📈</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alanheidel&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="alanheidel" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanheidel&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="alanheidel"
+	bg_color=#808080/></p>
+
 
 
 
