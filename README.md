@@ -1,27 +1,35 @@
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding Background" width="400"/>
-</p>
-<h1 align="center" style="color: #00bfff;">
-  Hi there 
-  <a href="https://github.com/Bouaskaoun" target="_self">
-	  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-  , I'm Alan Heidel 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Heidel" height="30" width="40" /></a>
-  <a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alan Heidel" height="30" width="40" /></a>
-  <a href="mailto:alanmax2015.aheidel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Alan Heidel" height="25" width="35" /></a>
-</p>
+<h1 align="center">
+	<img src="GIF/Earth.gif" width="24px">
+	𝐇𝐞𝐥𝐥𝐨, &lt;I'm Alan Heidel/&gt;!
+	<p align="center">
+  		<a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Heidel" height="30" 		width="40" /></a>
+  		<a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alan Heidel" height="30" width="40" /></a>
+  		<a href="mailto:alanmax2015.aheidel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Alan Heidel" height="25" width="35" /></a>
+	</p>
 </h1>
 
-### About Me 💻
+<br/>
+<p><img align="right" height="250" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="GIF" /></p>
+<br/>
 
-- Studying Information Systems Engineering on [UTN](https://www.frro.utn.edu.ar/)
----
+
+
+
+
+- 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔 **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** 𝑜𝑛 [𝗨𝗧𝗡](https://www.frro.utn.edu.ar/)
+- 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 **𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
+- 𝑀𝑦 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑙𝑖𝑒𝑠 𝑖𝑛 **𝑩𝒂𝒄𝒌 𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 <!-- SKILLS -->
-<h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
   <ul>
     <li>Know</li>
@@ -37,10 +45,11 @@
   </ul>
 </div>
 
----
+<br/>
+<br/>
 
 <!-- STATS -->
-<h3>GitHub Stats 📈</h3>
+<h2>GitHub Stats 📈</h2>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alanheidel&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="alanheidel" 
