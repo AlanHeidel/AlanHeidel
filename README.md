@@ -8,6 +8,7 @@
   		<a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alan Heidel" height="30" width="40" /></a>
   		<a href="mailto:alanmax2015.aheidel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Alan Heidel" height="25" width="35" /></a>
 	</p>
+	
 </h1>
 
 <br/>
@@ -17,7 +18,6 @@
 
 - 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔 **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** 𝑎𝑡 [𝗨𝗧𝗡](https://www.frro.utn.edu.ar/)
 - 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 **𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
-- 𝑀𝑦 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑙𝑖𝑒𝑠 𝑖𝑛 **𝑩𝒂𝒄𝒌 𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**.
 <br/>
 <br/>
 <br/>
