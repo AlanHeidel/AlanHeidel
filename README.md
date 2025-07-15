@@ -53,7 +53,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/alanheidel?style=social)
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanheidel&theme=material-palenight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanheidel&layout=donut&theme=material-palenight"
     alt="alanheidel" 
     bg_color=#808080/></p>
 
