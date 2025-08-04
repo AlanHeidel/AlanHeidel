@@ -11,44 +11,43 @@
 	
 </h1>
 
-<br/>
-	<p><img align="right" height="270" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="GIF" /></p>
+<strong>𝐈 𝐡𝐚𝐯𝐞 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐚𝐧𝐝 𝐞𝐧𝐣𝐨𝐲 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐨𝐨𝐥𝐬. 𝐇𝐞𝐫𝐞’𝐬 𝐚 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:<strong/>
+
 <br/>
 
+<img align="right" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo">
 
-- 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔 **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** 𝑎𝑡 [𝗨𝗧𝗡](https://www.frro.utn.edu.ar/)
-- 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 **𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
+- 📚 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔 **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** 𝑎𝑡 [𝗨𝗧𝗡](https://www.frro.utn.edu.ar/)
+- 👨‍💻 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 **𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
+- 🎯 𝑀𝑦 𝑔𝑜𝑎𝑙 𝑖𝑠 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑖𝑜𝑛𝑎𝑙 𝐹𝑢𝑙𝑙 𝑆𝑡𝑎𝑐𝑘 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟
+- 📫 𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒 **alanmax2015.aheidel@gmail.com**
+
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 <!-- SKILLS -->
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> 𝐒𝐤𝐢𝐥𝐥𝐬 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
-  <ul>
-    <li>Know</li>
-    <p align="left">
-      <a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)" target="_blank"> <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.9.0/1738545183646/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/> </a>
-      <a href="https://es.wikipedia.org/wiki/Smalltalk" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:600/1*5IWd4GcFZ9RS0CqsvZsMlA.png" width="33" height="40"/> </a>
-    </p>
+	<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html&perline=1"/> </a>
+	<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css&perline=1"/> </a>
+	<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js&perline=1"/> </a>
+	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts&perline=1"/> </a>
+	<a href="https://es.react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react&perline=1"/> </a>
+	<a href="https://nodejs.org/es" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs&perline=1"/> </a>
 	<br/>
-    <li>Learning</li>
-    <p align="left">
-	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-	<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/> </a> 
-	<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="html" width="42" height="42"/> </a> 
-     	<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="css" width="42" height="42"/> </a> 
-	<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="42" height="42"/> </a> 
-    </p>
-  </ul>
+	<a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express&perline=1"/> </a>
+	<a href="https://pnpm.io/es/" target="_blank"> <img src="https://skillicons.dev/icons?i=pnpm&perline=1"/> </a>
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git&perline=1"/> </a>
+	<a href="https://github.com/AlanHeidel" target="_blank"> <img src="https://skillicons.dev/icons?i=github&perline=1"/> </a>
+	<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode&perline=1"/> </a>
+	<a href="https://discord.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=discord&perline=1"/> </a>
 </div>
 
 <br/>
+<br/>
 
 <!-- STATS -->
-<h2>GitHub Stats 📈</h2>
+<h2>𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 📈</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/alanheidel?style=social)
 
@@ -61,7 +60,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
     alt="alanheidel"
-	bg_color=#808080/></p>
+	bg_color=#808080/>
+</p>
+
+------------
+<div align="center">
+	<img alt="GIF" width="1080px" height="450px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />	
+</div>
+
 
 
 
