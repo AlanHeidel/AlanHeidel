@@ -63,11 +63,6 @@
 	bg_color=#808080/>
 </p>
 
-------------
-<div align="center">
-	<img alt="GIF" width="1080px" height="450px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdidmdsaGIwcWI5cGh4aWUxeDEwd2RxNGxsZHVwYXU4eXdzdjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XtK1xh2BsbztjWx8gJ/giphy.gif" />	
-</div>
-
 
 
 
