@@ -36,11 +36,11 @@
 	<a href="https://nodejs.org/es" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs&perline=1"/> </a>
 	<br/>
 	<a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express&perline=1"/> </a>
+	<a href="https://docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker&perline=1"/> </a>
 	<a href="https://pnpm.io/es/" target="_blank"> <img src="https://skillicons.dev/icons?i=pnpm&perline=1"/> </a>
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git&perline=1"/> </a>
 	<a href="https://github.com/AlanHeidel" target="_blank"> <img src="https://skillicons.dev/icons?i=github&perline=1"/> </a>
 	<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode&perline=1"/> </a>
-	<a href="https://discord.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=discord&perline=1"/> </a>
 </div>
 
 <br/>
