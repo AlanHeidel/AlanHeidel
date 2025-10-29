@@ -4,9 +4,9 @@
 	<br/>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&pause=1000&color=BB00F7&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student...;Connect+with+me+%E2%86%B4" alt="Typing SVG" /></a>
 	<p align="center">
-		<a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alan Heidel" height="30" 		width="40" /></a>
-  		<a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alan Heidel" height="30" width="40" /></a>
-  		<a href="mailto:alanmax2015.aheidel@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Alan Heidel" height="25" width="35" /></a>
+		<a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Alan Heidel" width="70" /></a>
+  		<a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Alan Heidel" width="70" /></a>
+		<a href="https://@AlanHeidel#6647" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Alan Heidel" width="70" /></a>
 	</p>
 	
 </h1>
@@ -15,13 +15,16 @@
 
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo">
+<img align="right" height="200px" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2OTg5NjcsIm5iZiI6MTc2MTY5ODY2NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDAwNDQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3NzA5M2U5MDUyYmNiNzNlNzZiYjYxZmJmMzE5MGU5ZTg3ZGY2MjU2ODA5YTgxMzg1ZjhkMWY4N2QxZjcyZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-Q_iYi3fOrhIAzDR0m2yZau7nbI1bs0ihtwy4QheM0Y" alt="gif-stats-on-laptop">
+
+<br/>
 
 - 📚 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔 **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** 𝑎𝑡 [𝗨𝗧𝗡](https://www.frro.utn.edu.ar/)
 - 👨‍💻 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 **𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
 - 🎯 𝑀𝑦 𝑔𝑜𝑎𝑙 𝑖𝑠 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑖𝑜𝑛𝑎𝑙 𝐹𝑢𝑙𝑙 𝑆𝑡𝑎𝑐𝑘 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟
 - 📫 𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒 **alanmax2015.aheidel@gmail.com**
 
+<br/>
 <br/>
 
 
