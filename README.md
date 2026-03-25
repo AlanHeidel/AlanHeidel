@@ -12,14 +12,35 @@
 
 <strong>𝐈 𝐡𝐚𝐯𝐞 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐚𝐧𝐝 𝐞𝐧𝐣𝐨𝐲 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐨𝐨𝐥𝐬. 𝐇𝐞𝐫𝐞’𝐬 𝐚 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:<strong/>
 
-<img align="right" height="200px" src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/illustration.png" alt="gif-stats-on-laptop">
+<img align="right" height="200px" src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/icon-profile.png" alt="icon-profile">
 
 <br/>
 
-- 📚 Studying **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠** 𝑎𝑡 [𝗨𝗧𝗡](https://www.frro.utn.edu.ar/)
-- 👨‍💻 I'm currently learning **𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
-- 🎯 My goal is to become a professional 𝐹𝑢𝑙𝑙 𝑆𝑡𝑎𝑐𝑘 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟
-- 📫 How to reach me **[alanmax2015.aheidel@gmail.com](mailto:alanmax2015.aheidel@gmail.com)**
+<p>
+  <img src="https://cdn.simpleicons.org/googleclassroom/gray" width="22" align="center" /> 
+  &nbsp;Studying <b>Information Systems Engineering</b> at 
+  <a href="https://www.frro.utn.edu.ar/">UTN</a>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/react/gray" width="22" align="center" /> 
+  &nbsp;Currently learning <b>Full Stack Web Development</b>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/devdotto/gray" width="22" align="center" /> 
+  &nbsp;My goal is to become a professional <b>Full Stack Developer</b>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/googlechrome/gray" width="22" align="center" /> 
+  &nbsp;Portfolio: <a href="https://alanheidel.dev">alanheidel.dev</a>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/gmail/gray" width="22" align="center" /> 
+  &nbsp;Contact: <a href="mailto:alanmax2015.aheidel@gmail.com">alanmax2015.aheidel@gmail.com</a>
+</p>
 
 <br/>
 <br/>
@@ -27,21 +48,20 @@
 
 <!-- SKILLS -->
 <h2> 𝐒𝐤𝐢𝐥𝐥𝐬 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div>
-	<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html&perline=1"/> </a>
-	<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css&perline=1"/> </a>
-	<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js&perline=1"/> </a>
-	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts&perline=1"/> </a>
-	<a href="https://es.react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react&perline=1"/> </a>
-	<a href="https://nodejs.org/es" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs&perline=1"/> </a>
-	<br/>
-	<a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express&perline=1"/> </a>
-	<a href="https://docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker&perline=1"/> </a>
-	<a href="https://pnpm.io/es/" target="_blank"> <img src="https://skillicons.dev/icons?i=pnpm&perline=1"/> </a>
-	<a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git&perline=1"/> </a>
-	<a href="https://github.com/AlanHeidel" target="_blank"> <img src="https://skillicons.dev/icons?i=github&perline=1"/> </a>
-	<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode&perline=1"/> </a>
-</div>
+
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+<br>
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![PNPM](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)&nbsp;
+![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
 <br/>
 <br/>
@@ -54,11 +74,7 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanheidel&layout=donut&theme=material-palenight"
     alt="alanheidel" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
+    bg_color=#808080/> &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
     alt="alanheidel"
 	bg_color=#808080/>
 </p>
