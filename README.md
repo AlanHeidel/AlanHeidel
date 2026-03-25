@@ -47,7 +47,7 @@
 
 
 <!-- SKILLS -->
-<h2> 𝐒𝐤𝐢𝐥𝐥𝐬 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> 𝐒𝐤𝐢𝐥𝐥𝐬&nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -67,7 +67,10 @@
 <br/>
 
 <!-- STATS -->
-<h2>𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 📈</h2>
+  <h2>
+  𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬&nbsp;
+  <img src="https://cdn.simpleicons.org/github/gray" width="28" />
+</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/alanheidel?style=social)
 
