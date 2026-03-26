@@ -12,9 +12,11 @@
 
 <strong>𝐈 𝐡𝐚𝐯𝐞 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐚𝐧𝐝 𝐞𝐧𝐣𝐨𝐲 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐨𝐨𝐥𝐬. 𝐇𝐞𝐫𝐞’𝐬 𝐚 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:<strong/>
 
+<br/>
+<br/>
 <img align="right" height="200px" src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/icon-profile.png" alt="icon-profile">
 
-<br/>
+
 
 <p>
   <img src="https://cdn.simpleicons.org/googleclassroom/gray" width="22" align="center" /> 
