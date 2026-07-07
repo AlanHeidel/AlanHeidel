@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=521057" />
+</p>
+
 <h1 align="center">
 	<img src="GIF/Earth.gif" width="24px">
 	𝐇𝐞𝐥𝐥𝐨, &lt;I'm Alan Heidel/&gt;!
