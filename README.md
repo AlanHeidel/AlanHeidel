@@ -6,7 +6,7 @@
 	<img src="GIF/Earth.gif" width="24px">
 	𝐇𝐞𝐥𝐥𝐨, &lt;I'm Alan Heidel/&gt;!
 	<br/>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&pause=1000&color=BB00F7&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student...;Connect+with+me+%E2%86%B4" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&pause=1000&color=521057&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student...;Connect+with+me+%E2%86%B4" alt="Typing SVG" /></a>
 	<p align="center">
 		<a href="https://www.linkedin.com/in/alanheidel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Alan Heidel" width="70" /></a>
   		<a href="https://instagram.com/alanheidel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Alan Heidel" width="70" /></a>
