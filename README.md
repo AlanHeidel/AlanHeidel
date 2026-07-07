@@ -18,7 +18,7 @@
 
 <br/>
 <br/>
-<img align="right" height="200px" src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/icon-profile.png" alt="icon-profile">
+
 
 
 
