@@ -60,6 +60,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 <br>
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -80,9 +81,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/alanheidel?style=social)
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanheidel&layout=donut&theme=material-palenight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanheidel&layout=donut&theme=material-palenight"
     alt="alanheidel" 
-    bg_color=#808080/> &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
+    bg_color=#808080/> &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
     alt="alanheidel"
 	bg_color=#808080/>
 </p>
