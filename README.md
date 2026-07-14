@@ -22,28 +22,28 @@
 
 
 <p>
-  <img src="https://cdn.simpleicons.org/googleclassroom/gray" width="22" align="center" /> 
+  <img src="https://cdn.simpleicons.org/googleclassroom/521057" width="22" align="center" /> 
   &nbsp;Studying <b>Information Systems Engineering</b> at 
   <a href="https://www.frro.utn.edu.ar/">UTN</a>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/react/gray" width="22" align="center" /> 
+  <img src="https://cdn.simpleicons.org/react/521057" width="22" align="center" /> 
   &nbsp;Currently learning <b>Full Stack Web Development</b>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/devdotto/gray" width="22" align="center" /> 
+  <img src="https://cdn.simpleicons.org/devdotto/521057" width="22" align="center" /> 
   &nbsp;My goal is to become a professional <b>Full Stack Developer</b>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/googlechrome/gray" width="22" align="center" /> 
+  <img src="https://cdn.simpleicons.org/googlechrome/521057" width="22" align="center" /> 
   &nbsp;Portfolio: <a href="https://alanheidel.dev">alanheidel.dev</a>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/gmail/gray" width="22" align="center" /> 
+  <img src="https://cdn.simpleicons.org/gmail/521057" width="22" align="center" /> 
   &nbsp;Contact: <a href="mailto:alanmax2015.aheidel@gmail.com">alanmax2015.aheidel@gmail.com</a>
 </p>
 
@@ -72,12 +72,30 @@
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
 <br/>
+<!-- CERTIFICATIONS -->
+<h2>
+  𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐁𝐚𝐝𝐠𝐞𝐬&nbsp;
+   <img
+    src="https://api.iconify.design/ph:graduation-cap.svg?color=%23FFFFFF"
+    width="28px"
+    alt="Certifications and Badges"
+  />
+</h2>
+
+<a href="https://www.credly.com/badges/f160c3c7-3099-4c74-ada1-845a131c9bab/public_url">
+  <img
+    src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/cybersecurity-fundamentals.png"
+    alt="IBM Cybersecurity Fundamentals"
+    width="110"
+  />
+</a>
+
 <br/>
 
 <!-- STATS -->
   <h2>
   𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬&nbsp;
-  <img src="https://cdn.simpleicons.org/github/gray" width="28" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" />
 </h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/alanheidel?style=social)
