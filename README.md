@@ -113,12 +113,12 @@
 	width="55%"
 	/>
 </p>
-
+<br/>
 <p align="center">
   <img
     src="./metrics-isocalendar.svg"
     alt="Isometric GitHub contribution calendar"
-    width="75%"
+    width="100%"
   />
 </p>
 
