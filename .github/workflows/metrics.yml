@@ -56,7 +56,8 @@ jobs:
             }
 
             div.field {
-              font-size: 9px !important;
+              font-size: 8px !important;
+              color: #9CA3AF;
             }
 
             div.field > svg {
