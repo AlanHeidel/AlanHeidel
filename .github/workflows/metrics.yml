@@ -46,6 +46,13 @@ jobs:
   
             h3 {
               color: #FFFF !important;
+              font-size: 12px !important;
+            }
+
+            h3 svg {
+              fill: #FFFF
+              width: 13px !important;
+              height: 13px !important;
             }
 
             .field svg {
