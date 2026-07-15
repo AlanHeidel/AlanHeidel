@@ -104,9 +104,22 @@
 <p><img align="center"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanheidel&layout=donut&theme=material-palenight"
     alt="alanheidel" 
-    bg_color=#808080/> &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
+    bg_color=#808080
+	width="35%"   
+	/> &nbsp;&nbsp;&nbsp;&nbsp;
+	<img align="center" src="https://github-stats-extended.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
     alt="alanheidel"
-	bg_color=#808080/>
+	bg_color=#808080
+	width="55%"
+	/>
+</p>
+
+<p align="center">
+  <img
+    src="./metrics-isocalendar.svg"
+    alt="Isometric GitHub contribution calendar"
+    width="75%"
+  />
 </p>
 
 
