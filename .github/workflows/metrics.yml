@@ -33,14 +33,18 @@ jobs:
             }
 
             .items-wrapper {
-              background-color: #111827;
+              background-color: transparent;
             }
 
             svg {
               color: #FFFF;
             }
-
-            h2, h3 {
+            
+            h2.field {
+              display: none;
+              }
+  
+            h3 {
               color: #FFFF !important;
             }
 
@@ -66,7 +70,7 @@ jobs:
 
             svg[viewBox="0,0 480,270"] path[fill="#216e39"] {
               fill: #521057 !important;
-              animation: contribution-pulse 2.5s ease-in-out infinite;
+              animation: contribution-pulse 3.5s ease-in-out infinite;
               transform-box: fill-box;
               transform-origin: center;
             }
