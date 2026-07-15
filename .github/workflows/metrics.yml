@@ -66,7 +66,7 @@ jobs:
             }
 
             svg[viewBox="0,0 480,270"] {
-              margin-top: -115px !important;
+              margin-top: -110px !important;
               overflow: visible !important;
             }
 
@@ -88,21 +88,8 @@ jobs:
 
             svg[viewBox="0,0 480,270"] path[fill="#216e39"] {
               fill: #521057 !important;
-              animation: contribution-pulse 3.5s ease-in-out infinite;
-              transform-box: fill-box;
-              transform-origin: center;
             }
 
-            @keyframes contribution-pulse {
-              0%, 100% {
-                filter: drop-shadow(0 0 0 rgba(192, 132, 252, 0));
-                opacity: 1;
-              }
-
-              50% {
-                filter: drop-shadow(0 0 3px rgba(192, 132, 252, 0.9));
-                opacity: 0.85;
-              }
               
             extras_js: |
               document.querySelectorAll("h2.field").forEach((el) => {
