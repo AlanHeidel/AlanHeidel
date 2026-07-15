@@ -20,12 +20,12 @@ h2.field {
  display: none;
  }
 
-h3 {
+h2, h3 {
  color: #FFFF !important;
  font-size: 12px !important;
 }
 
-h3 svg {
+h3 svg, h2 svg {
  fill: #FFFF
  width: 13px !important;
  height: 13px !important;
