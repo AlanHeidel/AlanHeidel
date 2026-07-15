@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           extras_css: |
             :root {
-              background-color: #111827;
+              background-color: transparent;
               border-radius: 12px;
             }
 
@@ -37,7 +37,7 @@ jobs:
             }
 
             svg {
-              color: #D1D5DB;
+              color: #FFFF;
             }
 
             h2, h3 {
@@ -66,4 +66,25 @@ jobs:
 
             svg[viewBox="0,0 480,270"] path[fill="#216e39"] {
               fill: #521057 !important;
+              animation: contribution-pulse 2.5s ease-in-out infinite;
+              transform-box: fill-box;
+              transform-origin: center;
             }
+
+            @keyframes contribution-pulse {
+              0%, 100% {
+                filter: drop-shadow(0 0 0 rgba(192, 132, 252, 0));
+                opacity: 1;
+              }
+
+              50% {
+                filter: drop-shadow(0 0 3px rgba(192, 132, 252, 0.9));
+                opacity: 0.85;
+              }
+              
+            extras_js: |
+              document.querySelectorAll("h2.field").forEach((el) => {
+                if (el.textContent.includes("Contributions calendar")) {
+                  el.remove();
+                }
+              });
