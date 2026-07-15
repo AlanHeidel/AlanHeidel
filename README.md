@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">
-	<img src="GIF/Earth.gif" width="24px">
 	𝐇𝐞𝐥𝐥𝐨, &lt;I'm Alan Heidel/&gt;!
 	<br/>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&pause=1000&color=521057&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student...;Connect+with+me+%E2%86%B4" alt="Typing SVG" /></a>
