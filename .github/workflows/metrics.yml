@@ -26,3 +26,44 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            :root {
+              background-color: #111827;
+              border-radius: 12px;
+            }
+
+            .items-wrapper {
+              background-color: #111827;
+            }
+
+            svg {
+              color: #D1D5DB;
+            }
+
+            h2, h3 {
+              color: #FFFF !important;
+            }
+
+            .field svg {
+              fill: #9CA3AF !important;
+              }
+
+            svg[viewBox="0,0 480,270"] path[fill="#ebedf0"] {
+              fill: #374151 !important;
+            }
+
+            svg[viewBox="0,0 480,270"] path[fill="#9be9a8"] {
+              fill: #E9D5FF !important;
+            }
+
+            svg[viewBox="0,0 480,270"] path[fill="#40c463"] {
+              fill: #C084FC !important;
+            }
+
+            svg[viewBox="0,0 480,270"] path[fill="#30a14e"] {
+              fill: #9333EA !important;
+            }
+
+            svg[viewBox="0,0 480,270"] path[fill="#216e39"] {
+              fill: #521057 !important;
+            }
