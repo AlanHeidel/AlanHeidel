@@ -45,14 +45,23 @@ jobs:
               }
   
             h2, h3 {
-              color: #FFFF !important;
-              font-size: 12px !important;
+              color: #FFFFF !important;
+              font-size: 13px !important;
             }
 
             h3 svg, h2 svg {
-              fill: #FFFF
-              width: 13px !important;
-              height: 13px !important;
+              fill: #FFFFF !important;
+              width: 14px !important;
+              height: 14px !important;
+            }
+
+            div.field {
+              font-size: 11px !important;
+            }
+
+            div.field > svg {
+              width: 12px !important;
+              height: 12px !important;
             }
 
             .field svg {
