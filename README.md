@@ -105,7 +105,7 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanheidel&layout=donut&theme=material-palenight"
     alt="alanheidel" 
     bg_color=#808080
-	width="35%"   
+	width="40%"   
 	/> &nbsp;&nbsp;&nbsp;&nbsp;
 	<img align="center" src="https://github-stats-extended.vercel.app/api?username=alanheidel&show_icons=true&theme=material-palenight"
     alt="alanheidel"
