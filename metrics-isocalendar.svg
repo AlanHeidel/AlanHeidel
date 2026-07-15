@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="279" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="268" class="">
     <defs>
         <style/>
     </defs>
@@ -21,28 +21,25 @@ h2.field {
  }
 
 h2, h3 {
- color: #FFFFF !important;
- font-size: 13px !important;
+ color: #FFFF !important;
+ font-size: 12px !important;
 }
 
 h3 svg, h2 svg {
- fill: #FFFFF !important;
+ fill: #FFFF !important;
  width: 14px !important;
  height: 14px !important;
 }
 
 div.field {
- font-size: 11px !important;
+ font-size: 9px !important;
 }
 
 div.field &gt; svg {
- width: 12px !important;
- height: 12px !important;
+ width: 10px !important;
+ height: 10px !important;
+ fill: #9CA3AF
 }
-
-.field svg {
- fill: #9CA3AF !important;
- }
 
 svg[viewBox="0,0 480,270"] path[fill="#ebedf0"] {
  fill: #374151 !important;
