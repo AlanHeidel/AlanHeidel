@@ -89,6 +89,13 @@
     width="110"
   />
 </a>
+<a href="https://www.credly.com/badges/3db279bb-8779-4f0c-a075-63df588f6893/public_url">
+  <img
+    src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/google-cybersecurity-professional-certificate-v-2-removebg.png"
+    alt="Google Cybersecurity"
+    width="117"
+  />
+</a>
 
 <br/>
 
