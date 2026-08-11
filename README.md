@@ -72,7 +72,7 @@
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
 <br/>
-<!-- CERTIFICATIONS -->
+<!-- CERTIFICATIONS 
 <h2>
   𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐁𝐚𝐝𝐠𝐞𝐬&nbsp;
    <img
@@ -104,7 +104,7 @@
   />
 </a>
 
-<br/>
+<br/> -->
 
 <!-- STATS -->
   <h2>
