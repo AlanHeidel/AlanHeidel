@@ -82,18 +82,25 @@
   />
 </h2>
 
+<a href="https://www.credly.com/badges/431c7f64-bb78-4220-851e-19c95a88cef4/public_url">
+  <img
+    src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/javascript-programming-essentials-removebg.png"
+    alt="IBM JavaScript Essentials"
+    width="122"
+  />
+</a>
 <a href="https://www.credly.com/badges/f160c3c7-3099-4c74-ada1-845a131c9bab/public_url">
   <img
     src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/cybersecurity-fundamentals.png"
     alt="IBM Cybersecurity Fundamentals"
-    width="110"
+    width="120"
   />
 </a>
 <a href="https://www.credly.com/badges/3db279bb-8779-4f0c-a075-63df588f6893/public_url">
   <img
     src="https://github.com/AlanHeidel/AlanHeidel/blob/main/assets/google-cybersecurity-professional-certificate-v-2-removebg.png"
     alt="Google Cybersecurity"
-    width="117"
+    width="127"
   />
 </a>
 
